@@ -131,7 +131,7 @@ p {
   -moz-user-select: none;
   -ms-user-select: none;
   user-select: none;
-  border: 2px solid #FFAB4A;
+  border: 2px solid #188dcb;
   padding: 0 36px;
   font-size: 16px;
   line-height: 54px;
@@ -140,11 +140,11 @@ p {
   cursor: pointer;
   z-index: 5;
   font-weight: 600;
-  background-color: #FFAB4A;
+  background-color: #188dcb;
   font-family: "space_grotesk"; }
   .main-btn:hover {
     background-color: transparent;
-    color: #FFAB4A; }
+    color: #fff; }
   .main-btn.main-btn-2 {
     background: #fff;
     border-color: #fff; }
